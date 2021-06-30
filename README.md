@@ -8,7 +8,7 @@ penetration tester, red team.">
 
 - Strong background in security tools, emerging technologies, processes and best practices.
 
-- An author of ReconSpider an Open Source Intelligence (OSINT) security tool on GitHub.
+- An author of [ReconSpider](https://github.com/bhavsec/reconspider) an Open Source Intelligence (OSINT) security tool.
 
 - Reported Security Vulnerabilities in Netherlands Government, Dell, Sophos etc.
 
