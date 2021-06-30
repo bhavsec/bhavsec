@@ -4,12 +4,18 @@
 penetration tester, red team.">
 
 
-I am an Independent Security researcher who is passionate about making open-source more accessible, creating technology to elevate people, and building information security community for cyber security researchers. Some technologies I enjoy working with Python, Bash, Javascript. 
+- Information security enthusiast with strong interest in information security, specifically penetration testing and offensive security.
+
+- Strong background in security tools, emerging technologies, processes and best practices.
+
+- An author of ReconSpider an Open Source Intelligence (OSINT) security tool on GitHub.
+
+- Reported Security Vulnerabilities in Netherlands Government, Dell, Sophos etc.
 
 
 ## Find me around the web 🌎:
 
 - Learning in public on <a href="https://youtube.com/bhavsec">YouTube</a> 📚 📹
-- Sharing my Hacker lifestyle on <a href="https://instagram.com/bhavsec">Instagram</a> 💻
+- Sharing my lifestyle on <a href="https://instagram.com/bhavsec">Instagram</a> 💻
 - Career related updates on <a href="https://www.linkedin.com/in/bhavsec/">LinkedIn</a> & <a href="https://twitter.com/bhavsec">Twitter</a> 💼
-- Discuss new projects with me at <a href="https://bit.ly/joinsecarmy">Discord</a> 📫
+- Discuss new projects with me at <a href="http://discordapp.com/users/439445862658080779">Discord</a> 📫
