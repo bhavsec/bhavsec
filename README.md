@@ -1,4 +1,4 @@
-## 👋 hello friend, I'm Bhavkaran Singh Chahal - aka [bhavsec][website]
+## 👋 Hi there, I'm Bhavkaran Singh Chahal - aka [bhavsec][website]
 
 
 [![Website](https://img.shields.io/website?label=bhavsec.com&style=flat-square&url=https://bhavsec.com/)][website]
