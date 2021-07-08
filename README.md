@@ -7,7 +7,6 @@ penetration tester, red team.">
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhavsec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=bhavsec)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwPA3EEX4BRauCmMIAxpV3w?label=Youtube%20Subscribers&style=for-the-badge)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwPA3EEX4BRauCmMIAxpV3w?label=Videos%20Views&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/bhavsec?label=github%20stars&style=for-the-badge)
 
 - Information security enthusiast with strong interest in information security, specifically penetration testing and offensive security.
 
