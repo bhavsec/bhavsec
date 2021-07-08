@@ -1,7 +1,5 @@
-### Hi there, I'm Bhavkaran Singh Chahal - aka [bhavsec][website] 👋
+## Hi there, I'm Bhavkaran Singh Chahal - aka [bhavsec][website] 👋
 
-<img src="https://raw.githubusercontent.com/bhavsec/bhavsec/master/github-cover.png" alt="banner that says Bhavkaran - cyber security researcher, developer,
-penetration tester, red team.">
 
 [![Website](https://img.shields.io/website?label=bhavsec.com&style=for-the-badge&url=https://bhavsec.com/)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhavsec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=bhavsec)
