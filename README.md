@@ -37,6 +37,15 @@
 <!-- LIST:END -->
 - [more videos ...][youtube]
 
+
+---
+
+### Certification Badges
+
+[<img align="left" width="100px" src="https://bhavsec.com/img/ceh-badge.png"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=KfkCVMZRbFcw3rsbKPF8DZP1eqcq4QFLJP+stohNphI=)
+[<img align="left" width="100px" src="https://bhavsec.com/img/cybersecurity-cisco-badge.png"/>](https://www.credly.com/badges/ec563188-d435-4801-8d10-c8e2b7b4d6ff/public_url)
+[<img width="100px" src="https://bhavsec.com/img/pcep-badge.png"/>](https://www.credly.com/badges/c9288dec-c864-4da8-9cb8-eacc7b53fa8a)
+
  ---
 
 ### 📈 GitHub Statistics
@@ -49,12 +58,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bhavsec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="left" alt="bhavsec | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bhavsec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bhavsec | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bhavsec | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="bhavsec | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="bhavsec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website] 
+[<img align="left" alt="bhavsec | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="bhavsec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="bhavsec | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="bhavsec | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="bhavsec | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
 
 <!-- Reference Links -->
 
