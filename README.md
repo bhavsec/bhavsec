@@ -1,10 +1,11 @@
 ## Hi there, I'm Bhavkaran Singh Chahal - aka [bhavsec][website] 👋
 
 
-[![Website](https://img.shields.io/website?label=bhavsec.com&style=for-the-badge&url=https://bhavsec.com/)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/bhavsec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=bhavsec)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwPA3EEX4BRauCmMIAxpV3w?label=Youtube%20Subscribers&style=for-the-badge)][youtube]
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwPA3EEX4BRauCmMIAxpV3w?label=Videos%20Views&style=for-the-badge)][youtube]
+[![Website](https://img.shields.io/website?label=bhavsec.com&style=flat-square&url=https://bhavsec.com/)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/bhavsec?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=bhavsec)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwPA3EEX4BRauCmMIAxpV3w?label=Youtube%20Subscribers&style=flat-square)][youtube]
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwPA3EEX4BRauCmMIAxpV3w?label=Videos%20Views&style=flat-square)][youtube]
+![GitHub Org's stars](https://img.shields.io/github/stars/bhavsec?label=Github%20Stars&style=flat-square)
 
 - Information security enthusiast with strong interest in information security, specifically penetration testing and offensive security.
 
