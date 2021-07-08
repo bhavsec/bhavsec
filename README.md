@@ -7,12 +7,9 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwPA3EEX4BRauCmMIAxpV3w?label=Videos%20Views&style=flat-square)][youtube]
 [![GitHub Org's stars](https://img.shields.io/github/stars/bhavsec?label=Github%20Stars&style=flat-square)][github]
 
-- Information security enthusiast with strong interest in information security, specifically penetration testing and offensive security.
-
+- Information security enthusiast with strong interest in penetration testing and offensive security.
 - Strong background in security tools, emerging technologies, processes and best practices.
-
 - An author of [ReconSpider](https://github.com/bhavsec/reconspider) an Open Source Intelligence (OSINT) security tool.
-
 - Reported Security Vulnerabilities in Netherlands Government, Dell, Sophos etc.
 
 ---
