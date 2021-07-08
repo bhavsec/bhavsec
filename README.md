@@ -1,11 +1,11 @@
-## Hi there, I'm Bhavkaran Singh Chahal - aka [bhavsec][website] 👋
+## 👋 hello friend, I'm Bhavkaran Singh Chahal - aka [bhavsec][website]
 
 
 [![Website](https://img.shields.io/website?label=bhavsec.com&style=flat-square&url=https://bhavsec.com/)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhavsec?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=bhavsec)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwPA3EEX4BRauCmMIAxpV3w?label=Youtube%20Subscribers&style=flat-square)][youtube]
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwPA3EEX4BRauCmMIAxpV3w?label=Videos%20Views&style=flat-square)][youtube]
-![GitHub Org's stars](https://img.shields.io/github/stars/bhavsec?label=Github%20Stars&style=flat-square)
+[![GitHub Org's stars](https://img.shields.io/github/stars/bhavsec?label=Github%20Stars&style=flat-square)][github]
 
 - Information security enthusiast with strong interest in information security, specifically penetration testing and offensive security.
 
@@ -44,9 +44,9 @@
 
 ### 📈 GitHub Statistics
 
-[![bhavsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavsec&show_icons=true&hide=contribs&count_private=true)](https://github.com/bhavsec/)
+[![bhavsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavsec&show_icons=true&hide=contribs&count_private=true)][github]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavsec&layout=compact)](https://github.com/bhavsec/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavsec&layout=compact)][github]
 
 ---
 
@@ -63,6 +63,7 @@
 
 [website]: https://bhavsec.com/
 [twitter]: https://twitter.com/bhavsec
+[github]: https://github.com/bhavsec
 [instagram]: https://instagram.com/bhavsec
 [linkedin]: https://linkedin.com/in/bhavsec
 [facebook]: https://facebook.com/bhavsec
