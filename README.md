@@ -22,7 +22,7 @@
 - [From MSSQL to RCE](https://bhavsec.com/posts/mssql-rce/)
 - [Steganography for beginners](https://bhavsec.com/posts/steganography-beginners/)
 <!-- LIST:END -->
-- [more blog posts ...][website]
+- [more blog posts ...](https://bhavsec.com/posts/)
 
 ---
 
