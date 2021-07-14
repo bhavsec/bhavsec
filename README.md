@@ -14,13 +14,14 @@
 
 ---
 
-### 📕 My Latest Blog Posts
+### 📕 My Blog Posts
 
 <!-- LIST:START -->
 - [FreeFloat FTP Buffer Overflow](https://bhavsec.com/posts/buff-freefloatftp/)
 - [Exploiting PHP deserialization](https://bhavsec.com/posts/php-deserialization/)
 - [From MSSQL to RCE](https://bhavsec.com/posts/mssql-rce/)
 - [Steganography for beginners](https://bhavsec.com/posts/steganography-beginners/)
+- [Mass Printer Hacking Case Study](https://bhavsec.com/posts/pewdiepie-printerhack/)
 <!-- LIST:END -->
 - [more blog posts ...](https://bhavsec.com/posts/)
 
