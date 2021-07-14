@@ -17,6 +17,7 @@
 ### 📕 My Blog Posts
 
 <!-- LIST:START -->
+- [Bash and the Shellshock ⚡️](https://bhavsec.com/posts/shellshock/)
 - [FreeFloat FTP Buffer Overflow](https://bhavsec.com/posts/buff-freefloatftp/)
 - [Exploiting PHP deserialization](https://bhavsec.com/posts/php-deserialization/)
 - [From MSSQL to RCE](https://bhavsec.com/posts/mssql-rce/)
