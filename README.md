@@ -49,7 +49,8 @@
 [<img align="left" width="100px" src="https://bhavsec.com/img/ceh-badge.png"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=KfkCVMZRbFcw3rsbKPF8DZP1eqcq4QFLJP+stohNphI=)
 [<img align="left" width="100px" src="https://bhavsec.com/img/cybersecurity-cisco-badge.png"/>](https://www.credly.com/badges/ec563188-d435-4801-8d10-c8e2b7b4d6ff/public_url)
 [<img width="100px" src="https://bhavsec.com/img/pcep-badge.png"/>](https://www.credly.com/badges/c9288dec-c864-4da8-9cb8-eacc7b53fa8a)
-
+[<img width="100px" src="https://bhavsec.com/img/sc-900-logo.png"/>](https://www.credly.com/badges/faba37a2-52e5-45c4-aad6-37866b7aaa29?source=linked_in_profile)
+[<img width="100px" src="https://bhavsec.com/img/alteredsecurity-logo.png"/>](https://www.credly.com/badges/https://eu.badgr.com/public/assertions/nKkFN53UQ2m_BANVrOERPA?identity__email=bhavsec@gmail.com)
  ---
 
 ### 📈 GitHub Statistics
