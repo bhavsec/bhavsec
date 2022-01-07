@@ -17,6 +17,7 @@
 ### 📕 My Blog Posts
 
 <!-- LIST:START -->
+- [Introduction to Azure Pentesting ☁️](https://bhavsec.com/posts/intro-to-azure-pentesting/)
 - [Boom Bashed 🧨💥](https://bhavsec.com/posts/boom-bashed/)
 - [Bash and the Shellshock ⚡️](https://bhavsec.com/posts/shellshock/)
 - [FreeFloat FTP Buffer Overflow 🪣💦](https://bhavsec.com/posts/buff-freefloatftp/)
