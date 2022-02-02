@@ -17,6 +17,8 @@
 ### 📕 My Blog Posts
 
 <!-- LIST:START -->
+- [eJPT Cheatsheet 🎓](https://bhavsec.com/posts/ejpt-cheatsheet/)
+- [Active Directory Pentesting Resources 📚](https://bhavsec.com/posts/active-directory-resources/)
 - [Introduction to Azure Pentesting ☁️](https://bhavsec.com/posts/intro-to-azure-pentesting/)
 - [Boom Bashed 🧨💥](https://bhavsec.com/posts/boom-bashed/)
 - [Bash and the Shellshock ⚡️](https://bhavsec.com/posts/shellshock/)
