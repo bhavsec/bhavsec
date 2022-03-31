@@ -17,6 +17,7 @@
 ### 📕 My Blog Posts
 
 <!-- LIST:START -->
+- [Spring4Shell 🍃](https://bhavsec.com/posts/spring4shell/)
 - [eJPT Cheatsheet 🎓](https://bhavsec.com/posts/ejpt-cheatsheet/)
 - [Active Directory Pentesting Resources 📚](https://bhavsec.com/posts/active-directory-resources/)
 - [Introduction to Azure Pentesting ☁️](https://bhavsec.com/posts/intro-to-azure-pentesting/)
