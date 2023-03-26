@@ -17,6 +17,7 @@
 ### 📕 My Blog Posts
 
 <!-- LIST:START -->
+- [Exploiting Outlook Zero-Day Exploit (CVE-2023-23397) ✉️](https://bhavsec.com/posts/outlook-zeroday-cve-2023-23397/)
 - [Spring4Shell 🍃](https://bhavsec.com/posts/spring4shell/)
 - [eJPT Cheatsheet 🎓](https://bhavsec.com/posts/ejpt-cheatsheet/)
 - [Active Directory Pentesting Resources 📚](https://bhavsec.com/posts/active-directory-resources/)
@@ -49,6 +50,7 @@
 
 ### 🎓 Certification Badges
 
+[<img align="left" width="100px" src="https://bhavsec.com/img/oscp-badge.png"/>](https://www.credential.net/29f7f885-5017-4ed0-b688-54cce6ea8ebc)
 [<img align="left" width="100px" src="https://bhavsec.com/img/ceh-badge.png"/>](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=KfkCVMZRbFcw3rsbKPF8DZP1eqcq4QFLJP+stohNphI=)
 [<img align="left" width="100px" src="https://bhavsec.com/img/cybersecurity-cisco-badge.png"/>](https://www.credly.com/badges/ec563188-d435-4801-8d10-c8e2b7b4d6ff/public_url)
 [<img width="100px" src="https://bhavsec.com/img/pcep-badge.png"/>](https://www.credly.com/badges/c9288dec-c864-4da8-9cb8-eacc7b53fa8a)
