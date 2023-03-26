@@ -17,7 +17,7 @@
 ### 📕 My Blog Posts
 
 <!-- LIST:START -->
-- [Exploiting Outlook Zero-Day Exploit (CVE-2023-23397) ✉️](https://bhavsec.com/posts/outlook-zeroday-cve-2023-23397/)
+- [Exploiting Outlook Zero-Day Vulnerability (CVE-2023-23397) ✉️](https://bhavsec.com/posts/outlook-zeroday-cve-2023-23397/)
 - [Spring4Shell 🍃](https://bhavsec.com/posts/spring4shell/)
 - [eJPT Cheatsheet 🎓](https://bhavsec.com/posts/ejpt-cheatsheet/)
 - [Active Directory Pentesting Resources 📚](https://bhavsec.com/posts/active-directory-resources/)
